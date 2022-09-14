@@ -1,3 +1,16 @@
+### Compilation
+
+- For the error `stack too deep when compiling inline assembly`, [turning on the optimizer can help resolve it](https://forum.openzeppelin.com/t/stack-too-deep-when-compiling-inline-assembly/11391/10). In my case so far, enabled with 200 runs is enough to fix the problem. 
+	- check [this answer on stack overflow](https://stackoverflow.com/questions/70310087/how-do-i-resolve-this-hardhat-compilererror-stack-too-deep-when-compiling-inli) and add the following snippet to your hardhat config:
+	- ```
+		settings: {
+      	optimizer: {
+        		enabled: true,
+        		runs: 200,
+      		}
+      ```
+      - No need to worry about `yul`, `yulDetails` or `optimizerSteps` for this most of the time
+
 ### For scripts and tests:
 
 - For Error message `xxx.yyy is not a function`, even if that function is declared, may be because there are multiple functions with the same name.
