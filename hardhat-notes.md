@@ -46,3 +46,7 @@
 	- `await network.provider.send("evm_increaseTime", [600]);`
 		- This increases the time by 600 seconds, or 10 minutes 
 
+### Open questions
+
+[ ] How to correctly use `hre.deployments...` functions
+[ ] How to correcty use hardhat tasks/subtasks 
