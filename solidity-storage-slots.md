@@ -21,7 +21,7 @@
 
 - When a contract inherits another contract, the first storage slots are occupied by the base-most contract's storage slots, then the next base-most contract occupies the following slots and so on. 
   - So, the base contract may get storage slots 0, 1, and 2, then the next contract up the inheritance tree gets storage slots starting with 3, and so on.
-- "base-most-ness" is determined by the C3 linearization order of the contract.
+- "base-most-ness" is determined by the [C3 linearization order](https://en.wikipedia.org/wiki/C3_linearization) of the contract.
 
 ### Resources:
 
