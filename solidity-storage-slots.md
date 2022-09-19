@@ -16,3 +16,9 @@
 - **Dynamic arrays**: Store their values similarly to mappings (see above), with one key difference - instead of each element being stored at a "random" slot (based on hashing), the first element is stored at a hash, then following elements in the array are stored at the next hash
   - for `exampleDynArray` at slot `1`, the slot of value `exampleDynArray[0]` is `keccak(1)` (since it is at slot 1). Then, the slot of `exampleDynArray[n]` is at `keccak(1)+n`.
   - If the values are less than 16 bytes in length, they may share storage slots
+
+### Inheritance
+
+- When a contract inherits another contract, the first storage slots are occupied by the base-most contract's storage slots, then the next base-most contract occupies the following slots and so on. 
+  - So, the base contract may get storage slots 0, 1, and 2, then the next contract up the inheritance tree gets storage slots starting with 3, and so on.
+- "base-most-ness" is determined by the C3 linearization order of the contract.
