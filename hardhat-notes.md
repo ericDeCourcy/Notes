@@ -49,7 +49,7 @@
 
 - There's OZ's [upgrades plugin](https://www.npmjs.com/package/@openzeppelin/hardhat-upgrades). 
 - There's a script in [this medium post](https://medium.com/coinmonks/how-to-create-an-uups-proxy-66eca257b2f9) which is used for deploying a UUPS proxy. Check it out! There are some slick built-in functions for deploying proxies
-
+	- `const uupsProxyPatternV1 = await upgrades.deployProxy(UupsProxyPatternV1, [], {kind: 'uups', unsafeAllow: ['constructor']});`
 ### Open questions
 
 [ ] How to correctly use `hre.deployments...` functions
