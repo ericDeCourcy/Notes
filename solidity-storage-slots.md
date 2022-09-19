@@ -5,6 +5,8 @@
 - The solidity compiler will read these values and cast them to the correct types. Keep in mind, it's still possible to access a "bytes32" slot as a "string" or an "int128" value. The compile may just yell if you try to do this without some trickery. But with trickery it is possible
 - Almost all slots are assigned in ascending order (first assigning slot 0, then slot 1, and so forth), so the first few slots are where the majority of storage mismatch issues will happen
 
+[Solidity Docs - Layout of State Variables in Storage](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html#layout-of-state-variables-in-storage)
+
 ### Types
 
 - **mappings**: Store their values at a "random" slot via hashing. The mapping declaration itself will "occupy" one slot which is left blank, and then that slot will be used to "salt" the mapping key you're requesting to get it's slot.
