@@ -22,3 +22,8 @@
 - When a contract inherits another contract, the first storage slots are occupied by the base-most contract's storage slots, then the next base-most contract occupies the following slots and so on. 
   - So, the base contract may get storage slots 0, 1, and 2, then the next contract up the inheritance tree gets storage slots starting with 3, and so on.
 - "base-most-ness" is determined by the C3 linearization order of the contract.
+
+### Resources:
+
+- ["All About Solidity Data Locations — Storage" by Jean Cvllr](https://betterprogramming.pub/all-about-solidity-data-locations-part-i-storage-e50604bfc1ad)
+- ["Ethereum In depth" by OpenZeppelin](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/) - check out all 7 parts!
