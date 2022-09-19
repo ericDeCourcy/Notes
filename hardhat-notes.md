@@ -45,6 +45,10 @@
 - Here's the command to fast-forward time in the simulated EVM: 
 	- `await network.provider.send("evm_increaseTime", [600]);`
 		- This increases the time by 600 seconds, or 10 minutes 
+### Proxies
+
+- There's OZ's [upgrades plugin](https://www.npmjs.com/package/@openzeppelin/hardhat-upgrades). 
+- There's a script in [this medium post](https://medium.com/coinmonks/how-to-create-an-uups-proxy-66eca257b2f9) which is used for deploying a UUPS proxy. Check it out! There are some slick built-in functions for deploying proxies
 
 ### Open questions
 
