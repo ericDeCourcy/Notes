@@ -50,6 +50,14 @@
 - There's OZ's [upgrades plugin](https://www.npmjs.com/package/@openzeppelin/hardhat-upgrades). 
 - There's a script in [this medium post](https://medium.com/coinmonks/how-to-create-an-uups-proxy-66eca257b2f9) which is used for deploying a UUPS proxy. Check it out! There are some slick built-in functions for deploying proxies
 	- `const uupsProxyPatternV1 = await upgrades.deployProxy(UupsProxyPatternV1, [], {kind: 'uups', unsafeAllow: ['constructor']});`
+
+### Deployments
+
+- You can call `hre.run('deploy');` to deploy contracts in the project
+	- it'll deploy them in alphabetical order, _unless you override it_. 
+		- You can force `xyz.ts` to be run before `abc.ts` by using [tags and dependencies](https://github.com/wighawag/hardhat-deploy#deploy-scripts-tags-and-dependencies)
+	- You need to import `hardhat-deploy` in the `hardhat.config.js`.
+
 ### Open questions
 
 [ ] How to correctly use `hre.deployments...` functions
