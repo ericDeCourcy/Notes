@@ -36,6 +36,15 @@ _copied shamelessly from the [solidity docs](https://docs.soliditylang.org/en/la
   - So, the base contract may get storage slots 0, 1, and 2, then the next contract up the inheritance tree gets storage slots starting with 3, and so on.
 - "base-most-ness" is determined by the [C3 linearization order](https://en.wikipedia.org/wiki/C3_linearization) of the contract.
 
+### Check your storage slots
+
+The following instructions assume you have setup a hardhat project for your solidity code.
+
+1. Download [`hardhat-storage-layout` plugin](https://npmmirror.com/package/hardhat-storage-layout) by running `yarn add --dev hardhat-storage-layout` in your project repo
+2. Put this line in the top of your hardhat.config.js: `require('hardhat-storage-layout');`
+3. Run `npx hardhat compile`. Make sure your contract actually compile before moving on to next step.  
+5. Run `yarn hardhat check`. The storage layout of every contract should be displayed
+
 ### Resources:
 
 - ["All About Solidity Data Locations — Storage" by Jean Cvllr](https://betterprogramming.pub/all-about-solidity-data-locations-part-i-storage-e50604bfc1ad)
