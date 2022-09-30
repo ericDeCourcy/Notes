@@ -7,6 +7,18 @@
 
 [Solidity Docs - Layout of State Variables in Storage](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html#layout-of-state-variables-in-storage)
 
+### Slot packing
+
+- Sometimes if variables are small enough in length, the compiler will pack them together. There are exceptions, for example that structs and arrays will always occupy a new slot:
+> For each variable, a size in bytes is determined according to its type. Multiple, contiguous items that need less than 32 bytes are packed into a single storage slot if possible, according to the following rules:
+> - The first item in a storage slot is stored lower-order aligned.
+> - Value types use only as many bytes as are necessary to store them.
+> - If a value type does not fit the remaining part of a storage slot, it is stored in the next storage slot.
+> - Structs and array data always start a new slot and their items are packed tightly according to these rules.
+> - Items following struct or array data always start a new storage slot.
+
+_copied shamelessly from the [solidity docs](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html#layout-of-state-variables-in-storage)_
+
 ### Types
 
 - **mappings**: Store their values at a "random" slot via hashing. The mapping declaration itself will "occupy" one slot which is left blank, and then that slot will be used to "salt" the mapping key you're requesting to get it's slot.
