@@ -12,7 +12,7 @@
 - **mappings**: Store their values at a "random" slot via hashing. The mapping declaration itself will "occupy" one slot which is left blank, and then that slot will be used to "salt" the mapping key you're requesting to get it's slot.
   - if `exampleMapping` is declared as the first variable, it's at slot `0`. The slot for `exampleMapping[42069]`, it's at slot `keccak256(abi.encode(42069,0)`, where the `0` comes from `exampleMapping`'s slot
     - See [this image](https://miro.medium.com/max/1400/1*YKIFfJIaAlHpPrtPMXeCbA.png) from [this medium post](https://medium.com/coinmonks/solidity-tutorial-all-about-mappings-29a12269ee14) 
-  - **mapping declarations consume one full slot in memory** (and then some more, but because those are hashes they are highly unlikely to ever have collisions. We can say it's impossible™️)
+  - mapping **declarations** consume one full slot in memory (and then one more for every element in the mapping, but because those slots are hashes they are highly unlikely to ever have collisions. We can say it's impossible™️)
 - **Dynamic arrays**: Store their values similarly to mappings (see above), with one key difference - instead of each element being stored at a "random" slot (based on hashing), the first element is stored at a hash, then following elements in the array are stored at the next hash
   - for `exampleDynArray` at slot `1`, the slot of value `exampleDynArray[0]` is `keccak(1)` (since it is at slot 1). Then, the slot of `exampleDynArray[n]` is at `keccak(1)+n`.
   - If the values are less than 16 bytes in length, they may share storage slots
