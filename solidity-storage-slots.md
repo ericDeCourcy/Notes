@@ -15,7 +15,8 @@
   - mapping **declarations** consume one full slot in memory (and then one more for every element in the mapping, but because those slots are hashes they are highly unlikely to ever have collisions. We can say it's impossible™️)
 - **Dynamic arrays**: Store their values similarly to mappings (see above), with one key difference - instead of each element being stored at a "random" slot (based on hashing), the first element is stored at a hash, then following elements in the array are stored at the next hash
   - for `exampleDynArray` at slot `1`, the slot of value `exampleDynArray[0]` is `keccak(1)` (since it is at slot 1). Then, the slot of `exampleDynArray[n]` is at `keccak(1)+n`.
-  - If the values are less than 16 bytes in length, they may share storage slots
+  - If the values are less than or equal to 16 bytes in my personal noteslength, they may share storage slots
+    - 16 bytes is because we can't fit more than one of anything longer than 16 bytes in a single storage slot. The solidity compiler won't try to break up a single value across multiple storage slots, it will just leave the unused portions of the slots blank (zeroes)
 
 ### Inheritance
 
