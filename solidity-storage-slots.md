@@ -2,7 +2,7 @@
 
 **Why do we care?** Because many smart contracts are upgradeable or make delegate calls, and if slots are mismanaged, they may get overridden or cause certain calls to access the incorrect variable. 
 - The EVM stores values in "slots" of 32 bytes (256 bits)
-- The solidity compiler will read these values and cast them to the correct types. It's still possible to access a "bytes32" slot as a "string" or an "int128" value, the compiler may just yell if you try to do this. But with some trickery it is possible, and more importantly, if the compiler incorrectly thinks a variable is the wrong type (like after a botched upgrade), it will run with it and cast the storage slot to the assumed type.
+- The solidity compiler will read these values from raw memory, and then cast them to the correct types. It's still possible to access a "bytes32" slot as a "string" or an "int128" value, the compiler may just yell if you try to do this. But with some trickery (for example, using assembly) it is possible, and more importantly, if the compiler incorrectly thinks a variable is the wrong type (like after a botched upgrade), it will run with it and cast the storage slot to the assumed type.
 - Almost all slots are assigned in ascending order (first assigning slot 0, then slot 1, and so forth), so the first few slots are where the majority of storage mismatch issues will happen
 
 [Solidity Docs - Layout of State Variables in Storage](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html#layout-of-state-variables-in-storage)
