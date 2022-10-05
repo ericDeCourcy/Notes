@@ -49,3 +49,4 @@ The following instructions assume you have setup a hardhat project for your soli
 
 - ["All About Solidity Data Locations — Storage" by Jean Cvllr](https://betterprogramming.pub/all-about-solidity-data-locations-part-i-storage-e50604bfc1ad)
 - ["Ethereum In depth" by OpenZeppelin](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/) - check out all 7 parts!
+- ["Writing Upgradeable Contracts" from the OpenZeppelin Docs](https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable) - Good explanation of how to manage storage slots within a contract meant to be upgraded
