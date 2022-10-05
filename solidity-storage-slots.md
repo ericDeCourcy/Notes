@@ -38,7 +38,9 @@ _copied shamelessly from the [solidity docs](https://docs.soliditylang.org/en/la
 
 ### Check your storage slots
 
-The following instructions assume you have setup a hardhat project for your solidity code.
+If you are using OpenZeppelin's [upgrades plugin for hardhat](https://www.npmjs.com/package/@openzeppelin/hardhat-upgrades), you can verify that your proxy upgrade will preserve correct storage by attempting an upgrade using `upgradeProxy` or just run the validations with `validateUpgrade`. If a storage gap is not being reduced properly, you will see an error message indicating the expected size of the storage gap.
+
+Alternatively, you can manually check your storage slots using `hardhat-storage-layout`, assuming you have setup a hardhat project for your solidity code.
 
 1. Download [`hardhat-storage-layout` plugin](https://npmmirror.com/package/hardhat-storage-layout) by running `yarn add --dev hardhat-storage-layout` in your project repo
 2. Put this line in the top of your hardhat.config.js: `require('hardhat-storage-layout');`
