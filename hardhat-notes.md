@@ -34,7 +34,9 @@
 	- This means you won't see the return value of the call to `myNonViewFunction` within `myCall`
 	- To actually see what the return of a non-view function call would be, you can do a _simulated_ or _static_ call. Do this by doing `await myContract.callStatic.myNonViewFunction()`. This will NOT generate a transaction, but instead simulate what the return value of that function would be if a transaction making that call was _mined at that time_. It's important to distinguish the transaction being _mined_ from the transaction being _sent_ in some cases.
 - calling `let myCall = await myContract.myViewFunction()` will await the return value of the _view_ function. This is because you aren't generating a transaction for this, but rather querying the blockchain. It doesn't require gas or require a sender. 
-- [ ] I'd really love to know how to get the `Duplicate definition of XYZ` message to be silenced
+- **To silence the "duplicate definition" warning** in hardhat, add this line to the top of your script after importing `ethers`:
+	`ethers.utils.Logger.setLogLevel(ethers.utils.Logger.levels.ERROR);` [thnx chainlink for showing me the way](https://github.com/smartcontractkit/chainlink/pull/5790/files)
+
 
 - All calls will come from the default signer unless specified differently
 	- When just doing local tests on a simulated blockchain, you can use `const [signer0, signer1, ...] = await ethers.getSigners()` for as many signers as you need. Just add them to the list within the `[ ]` brackets
