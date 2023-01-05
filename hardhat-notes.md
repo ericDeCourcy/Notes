@@ -47,6 +47,14 @@
 - Here's the command to fast-forward time in the simulated EVM: 
 	- `await network.provider.send("evm_increaseTime", [600]);`
 		- This increases the time by 600 seconds, or 10 minutes 
+
+- here's how to get the block number:
+```
+const latestBlockInfo = await hre.ethers.provider.getBlock("latest");
+const latestBlockNumber = latestBlockInfo.number;
+const latestBlockTimestamp = latestBlockInfo.timestamp;
+```
+
 ### Proxies
 
 - There's OZ's [upgrades plugin](https://www.npmjs.com/package/@openzeppelin/hardhat-upgrades). 
