@@ -33,6 +33,15 @@
 - calling `let myCall = await myContract.myNonViewFunction()` will await creating of the calling transaction, NOT the mining of said transaction. This is only for non-view functions.
 	- This means you won't see the return value of the call to `myNonViewFunction` within `myCall`
 	- To actually see what the return of a non-view function call would be, you can do a _simulated_ or _static_ call. Do this by doing `await myContract.callStatic.myNonViewFunction()`. This will NOT generate a transaction, but instead simulate what the return value of that function would be if a transaction making that call was _mined at that time_. It's important to distinguish the transaction being _mined_ from the transaction being _sent_ in some cases.
+- checking a transaction for it's return value or event emissions
+	- for non-view solidity functions, you can get the returned value for a function via:
+		- `const functionReturn = await MyContract.callStatic.functionName(arg0,arg1)`
+	- sometimes with access control this ^^^ doesn't work. Try this:
+		- ```
+		  const functionCall = await MyContract.functionName();
+		  const transactionReceipt = await functionCall.wait();
+		  console.log(transactionReceipt.events);
+		  ```
 - calling `let myCall = await myContract.myViewFunction()` will await the return value of the _view_ function. This is because you aren't generating a transaction for this, but rather querying the blockchain. It doesn't require gas or require a sender. 
 - **To silence the "duplicate definition" warning** in hardhat, add this line to the top of your script after importing `ethers`:
 	`ethers.utils.Logger.setLogLevel(ethers.utils.Logger.levels.ERROR);` [thnx chainlink for showing me the way](https://github.com/smartcontractkit/chainlink/pull/5790/files)
