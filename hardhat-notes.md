@@ -58,7 +58,7 @@
 		- This increases the time by 600 seconds, or 10 minutes
 	- This only increases **time, not block number**
 - To **skip forward by mining empty blocks** do:
-	- await hre.network.provider.send("hardhat_mine", ["0x100"]);`
+	- `await hre.network.provider.send("hardhat_mine", ["0x100"]);`
 		- Increases block number by 0x100 or 256 in decimal
 	- You can use `await network.provider.send("evm_mine");` but you have to call this in a loop once for every block you want. Cry. **only mines one block**.
 
