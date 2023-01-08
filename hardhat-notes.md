@@ -53,9 +53,14 @@
 		- `await myContract.connect(signer1).myFunction()`
 		- This will not persist across calls; you'll need to use `.connect(signer1)` every time you want to use `signer1`. Otherwise it will use the default signer.
 		
-- Here's the command to fast-forward time in the simulated EVM: 
+- Here's the command to **fast-forward or skip forward time** in the simulated EVM: 
 	- `await network.provider.send("evm_increaseTime", [600]);`
-		- This increases the time by 600 seconds, or 10 minutes 
+		- This increases the time by 600 seconds, or 10 minutes
+	- This only increases **time, not block number**
+- To **skip forward by mining empty blocks** do:
+	- await hre.network.provider.send("hardhat_mine", ["0x100"]);`
+		- Increases block number by 0x100 or 256 in decimal
+	- You can use `await network.provider.send("evm_mine");` but you have to call this in a loop once for every block you want. Cry. **only mines one block**.
 
 - here's how to get the block number:
 ```
