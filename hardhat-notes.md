@@ -82,3 +82,5 @@ const latestBlockTimestamp = latestBlockInfo.timestamp;
 [ ] How to correctly use `hre.deployments...` functions
 
 [ ] How to correcty use hardhat tasks/subtasks 
+
+[ ] How to take transaction receipt and filter it for a specific value in a specific event. Already have how to get transactionReceipt up there
