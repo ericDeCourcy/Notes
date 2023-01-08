@@ -36,7 +36,7 @@
 - checking a transaction for it's return value or event emissions
 	- for non-view solidity functions, you can get the returned value for a function via:
 		- `const functionReturn = await MyContract.callStatic.functionName(arg0,arg1)`
-	- sometimes with access control this ^^^ doesn't work. Try this:
+	- sometimes with access control this ^^^ doesn't work. Try this to get event logs for a tx:
 		- ```
 		  const functionCall = await MyContract.functionName();
 		  const transactionReceipt = await functionCall.wait();
