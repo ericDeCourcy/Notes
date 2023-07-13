@@ -26,7 +26,12 @@
 	- When running scripts which involve multiple transaction calls, on a _simulated_ network those calls will always be mined _exactly_ when they are broadcast
 	- When running scripts involving multiple transaction calls on a _real-life blockchain_, there is no guarantee your transactions will be mined at any time.
 		- When calling `await myContract.deposit(100)`, the `await` finishes _once the transaction is broadcast_, not once it is mined. So, you will need to do something clever to prevent your transactions from getting out of order 
-			- [ ] What do you do? Pretty sure we can use transaction reciepts
+			- So, use `await transactionName.wait()`. This will wait for transaction to be confirmed. Just insert a line in the javascript after your transaction to await it being mined.
+     			- ```
+          		  const transactionName = await MyContract.functionCall(arg0, arg1);
+          		  await transactionName.wait();	//waits for the transaction to be confirmed before going on to next line
+          		  ``` 
+
 		- When running scripts on a real-life blockchain, you may get an error suggesting the nonce is wrong. I believe this is because if you attempt to send 2 transactions two quickly, hardhat will query the chain to see which nonces have been used for your account and then, not seeing that the first tx consumed a nonce (since the tx is just chillin in the mempool), will generate a second tx with the same nonce.
 			- [ ] I need to narrow down WHAT the issue is here. Sorry in advance to my readers
 		
