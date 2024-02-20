@@ -47,6 +47,7 @@ Alternatively, you can manually check your storage slots using `hardhat-storage-
 2. Put this line in the top of your hardhat.config.js: `require('hardhat-storage-layout');`
 3. Run `npx hardhat compile`. Make sure your contract actually compile before moving on to next step.  
 5. Run `npx hardhat check` or `yarn hardhat check`. The storage layout of every contract should be displayed
+6. **Note: to check changes to contract storage**, you will need to recompile them and then run `npx hardhat check` again.
 
 ### Resources:
 
