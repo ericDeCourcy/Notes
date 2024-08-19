@@ -49,6 +49,10 @@ Alternatively, you can manually check your storage slots using `hardhat-storage-
 5. Run `npx hardhat check` or `yarn hardhat check`. The storage layout of every contract should be displayed
 6. **Note: to check changes to contract storage**, you will need to recompile them and then run `npx hardhat check` again.
 
+#### Assembly `.slot` method
+
+You can also check the storage slot of an object by using the assembly method `.slot`. [I didn't read this but here's an article about it](https://dev.to/web3_ruud/advance-soliditymastering-storage-slot-c38). 
+
 ### Resources:
 
 - ["All About Solidity Data Locations — Storage" by Jean Cvllr](https://betterprogramming.pub/all-about-solidity-data-locations-part-i-storage-e50604bfc1ad)
