@@ -19,3 +19,8 @@ _Please note that I'm not a mechanic. I'm just some dude who likes to learn by d
 - I really really wish i had a tiny hook tool to get the gasket from the pilot screw out of its hole. Holy crap, DO NOT use carb cleaner til you get that gasket out. It will make a giant mess in a very hard to access place.
 - You'll need something very narrow to clean the various holes in the carb jets. I used a piece of stranded copper wire, cutting off strands until the wire was small enough to fit in the holes. Other folks have suggested using a high E guitar string.
 - The screws are JIS screws. Slightly different than Philips head screws. Apparently you're less likely to strip these tiny screws if you use a JIS bit. [Read about the differences here](https://daitool.com/blogs/news/phillips-head-vs-jis-screwdriver-japanese-industrial-standard-screwdrivers?srsltid=AfmBOorsD4-jTLMtJqWv1La45mxdXCJmpPWTL9fakPbLCGdC23XIfl2Z)
+
+## Spark Plug
+
+- [Spark plug is NGK **DR8EA**](https://www.tw200forum.com/threads/spark-plug.17242/)
+- Spark plug gap appears to be `0.024-0.028 inches` or `0.6-0.7 mm`. [Manual page](https://www.tw200forum.com/threads/sparkplug-gap.18946/) and [forum discussion](https://www.tw200forum.com/threads/sparkplug-gap.18946/) seem to agree
