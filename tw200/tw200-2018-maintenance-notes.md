@@ -19,6 +19,7 @@ _Please note that I'm not a mechanic. I'm just some dude who likes to learn by d
 - I really really wish i had a tiny hook tool to get the gasket from the pilot screw out of its hole. Holy crap, DO NOT use carb cleaner til you get that gasket out. It will make a giant mess in a very hard to access place.
 - You'll need something very narrow to clean the various holes in the carb jets. I used a piece of stranded copper wire, cutting off strands until the wire was small enough to fit in the holes. Other folks have suggested using a high E guitar string.
 - The screws are JIS screws. Slightly different than Philips head screws. Apparently you're less likely to strip these tiny screws if you use a JIS bit. [Read about the differences here](https://daitool.com/blogs/news/phillips-head-vs-jis-screwdriver-japanese-industrial-standard-screwdrivers?srsltid=AfmBOorsD4-jTLMtJqWv1La45mxdXCJmpPWTL9fakPbLCGdC23XIfl2Z)
+- The "emulsion tube" or "emulsifier tube" is really just the main nozzle "bleed" or the entire assembly between the main jet and the nozzle.
 
 ## Spark Plug
 
