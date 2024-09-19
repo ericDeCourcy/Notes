@@ -8,6 +8,7 @@ _Please note that I'm not a mechanic. I'm just some dude who likes to learn by d
 - [TK Carb parts labelled with pictures](https://www.tw200forum.com/threads/tk-carb-photos-and-parts-identification.881/)
 - [Lazy man's TK carb cleaning](https://www.tw200forum.com/threads/lazy-mans-teikei-tk-carb-cleaning.810/)
 - [Discussions about the coaster circuit diaphram and carb tuning](https://www.tw200forum.com/threads/those-with-carb-issues-will-want-to-see-this.8207/)
+- [Video: "How the idle circuit works"](https://www.youtube.com/watch?v=S-fUkEEiork)
 
 ### Personal observations
 - The part where the carb connects to the airbox is flexible rubber, so the carb can be pushed into that to get the clearance to pull it out from the engine manifold
