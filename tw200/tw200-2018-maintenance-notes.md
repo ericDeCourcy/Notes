@@ -12,6 +12,7 @@ _Please note that I'm not a mechanic. I'm just some dude who likes to learn by d
 - [Video: "Understanding the Parts of a Motorcycle Carburetor"](https://www.youtube.com/watch?v=0DPyzPkk-qg)
 - [Video: "Inside A Motorcycle Carburetor - Idle Circuit"](https://www.youtube.com/watch?v=ZCG-5M214yE)
 - [Reddit thread on carb tuning symptoms](https://www.reddit.com/r/Fixxit/comments/1am9xvl/carb_tuning_symptoms_of_rich_or_lean/)
+- [Good things to know when replacing the pilot jet and adding shims to the TW carb](https://www.tw200rider.com/forum/tw200-rider-forum-aa/carburetor-new-style/1183-good-things-to-know-when-replacing-the-pilot-jet-and-adding-shims-to-the-tw-carb)
 
 ### Pilot screw
 - The pilot screw is accessible on the outside of the carb, and meters idle fuel flow especially when the throttle is closed. Basically there's a hole in the main carb tube, right next to the engine intake manifold. The screw, when tightened, closes fuel flow and restricts it. When loosened, it opens fuel flow. I found that tightening the pilot screw helped when the bike was running too rich, it seemed like i was having issues combusting fuel. I deduced it was running rich by see particulates in the exhaust (AKA, "seeing" the exhaust), and by seeing that the bike died when the choke was pulled.  
