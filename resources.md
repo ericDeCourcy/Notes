@@ -1,6 +1,6 @@
 # Resources
 
-This should just be a list of good resources
+This should just be a list of good links
 
 ## Crypto things
 ### Solidity/ETH stuff
