@@ -1,0 +1,43 @@
+How much emissions would i save if i got a new vehicle?
+Right now my vehicle gets about 12 mpg. I like being able to camp in it. Perhaps i could replace it with a f150 lightning or chrystler pacifica PHEV for camper-hauling or vanlifing.
+
+// assume electrical power has 0.4 kg/kwh of emissions
+// https://www.eia.gov/tools/faqs/faq.php?id=74&t=11
+
+### Emissions per mile
+- f150 lightning: 0.4 kg/kwh * 1/1.8 kwh/mile =  0.222 kg/mile
+- truck:  10 kg/gal * 1/12 gal/mile = 10/12 = 0.833 kg/mile
+- prius: 	10 kg/gal * 1/50 gal/mile = 0.2 kg/mile
+- pacifica: 16.6 kwH battery, 33 mile all electric, 30 mpg gas
+	first 33 miles: 0.4 kg/kwh * 16 kwh = 6.4 kg / 33 miles = 0.193 kg/mile
+	after:	10k/gal * 1/30 gal/mile = 0.333 kg/mile
+```
+	miles | mpg
+	 33   | 0.193
+	 66   | 0.263 	<-- we'll estimate likely 0.25 mpg since most trips < 50miles
+   	100   | 0.286
+   	200   | 0.3099
+   	500   | 0.323
+```
+	
+Driving 7500 miles a year:
+- Current truck emits: 6247 kg CO2
+- f150L emits: 1650 - saves ~4600 kg
+- prius emits: 1500 - saves ~4750 kg
+- pacifica emits: 1875 - saves ~4375 kg
+
+Pacifica will be smaller, cheaper and close to similar emissions vs f150 L.
+Prius is NOT the prius prime, which would be substantially less emissions.
+
+### Emissions from flying
+// https://www.carbonindependent.org/22.html
+Flying: 1/4 tonne CO2 per passenger, per hour of flying
+this is 250 kg
+
+to equal truck emissions for a year, just need 25 hrs flying 
+
+Flight to tailand, 23 hours = 5750 kg CO2
+- single flight to thailand dwarfs all my driving for a year... crazy. Flight back even doubles it
+
+Over time, assume power emits 0.4, 0.3, 0.2, 0.1, 0 kg/khw 
+f150L = 1650, 1240, 825, 412, 0 kg per year
