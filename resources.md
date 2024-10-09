@@ -6,6 +6,7 @@ This should just be a list of good links
 ### Solidity/ETH stuff
 - https://www.4byte.directory/ - database of function selectors
 - https://ethtx.info/ - decode mainnet ETH transactions
+- https://ethernodes.org/
 
 ### Crosschain and bridging
 - https://routescan.io/ - compiles many different chains and lets them be searchable. Even shows cross-chain transactions
