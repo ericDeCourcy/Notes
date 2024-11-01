@@ -2,6 +2,16 @@
 
 _Please note that I'm not a mechanic. I'm just some dude who likes to learn by doing._
 
+## Oil Gallery Bolt
+
+- Also called the "oil galley" bolt
+- There's a common problem where this bolt if over-torqued will shear, and if under-torqued will back out causing an oil leak (I had it back out on me)
+- There's an apparent issue on revzilla where the part number for the bolt is wrong
+- https://www.reddit.com/r/TW200/comments/12szmy0/oil_galley_bolt_part_availabilityspecs/
+- https://www.tw200forum.com/threads/how-screwed-am-i-oil-galley-bolt-snapped-off-when-tightening.62812/page-2?post_id=968092#post-968092
+- https://www.partzilla.com/catalog/yamaha/motorcycle/2002/tw200-tw200p/cylinder-head
+- https://www.tw200forum.com/threads/oil-gallery-bolt-oem-replacement.73078/
+
 ## Carburetor
 
 - [Parts diagram](https://www.partzilla.com/catalog/yamaha/motorcycle/2002/tw200-tw200p/carburetor?srsltid=AfmBOoop6BhYQeMbGHnHbGZOtflfhl0IWDYpsGGKwjBsGbvhu9dlZEOr)
