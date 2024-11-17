@@ -12,7 +12,7 @@
 	- toolkit for capital allocation
 	- modular design to utilize diff strategies n stuff
 	- there are grants for building on allo
-- Q: how does QF handle sybil attacks?
+- Q: how does Quadratic Funding resist sybil attacks?
 	- passport - ID products
 	- cluster mapping is a data science tech for sybil resistance 
 - he suggests sending 10% of funds upstream (towards the larger, more-base layer)
