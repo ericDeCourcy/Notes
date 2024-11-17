@@ -1,0 +1,3 @@
+# Devcon SEA/Bangkok/7/2024 notes
+
+- Fossasia badges use a python repo for interfacing via usb instead of bluetooth (https://github.com/fossasia/led-name-badge-ls32)
