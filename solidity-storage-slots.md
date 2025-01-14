@@ -43,7 +43,7 @@ If you are using OpenZeppelin's [upgrades plugin for hardhat](https://www.npmjs.
 Alternatively, you can manually check your storage slots using `hardhat-storage-layout`,
 
 0. Setup a hardhat project for your solidity code.
-1. Download [`hardhat-storage-layout` plugin](https://npmmirror.com/package/hardhat-storage-layout) by running `npm install hardhat-storage-layout` or `yarn add --dev hardhat-storage-layout`  in your project repo
+1. Download [`hardhat-storage-layout` plugin](https://www.npmjs.com/package/hardhat-storage-layout) by running `npm install hardhat-storage-layout` or `yarn add --dev hardhat-storage-layout`  in your project repo
 2. Put this line in the top of your hardhat.config.js: `require('hardhat-storage-layout');`
 3. Run `npx hardhat compile`. Make sure your contract actually compile before moving on to next step.  
 5. Run `npx hardhat check` or `yarn hardhat check`. The storage layout of every contract should be displayed
