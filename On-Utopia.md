@@ -25,6 +25,14 @@ We can see that there are many projects which achieve better outcomes with coope
 
 The quickest answer to the question of why we compete seems to be "thats how evolution/the natural world works". But, are we not better than that? Fairness is ingrained in human psychology, and we create laws to discourage wanton murder and rape, which also occur in the natural world. We create social programs so the disabled can survive. We have a natural desire to be better than animals in the jungle. 
 
+### Inequality
+
+How do we deal with the fact that some people will suffer while others are doing well? In an ideal world, the "haves" would stand up for the "have nots" - but even putting aside the barriers to making meaningful change, we see that people don't. The "haves" would rather keep what they have than give it up a bit to equalize out the difference. Some points about "giving up" your privilege for others:
+	- There are moral beleifs about this. Why would someone who works hard give up their hard-earned wealth for someone who is lazy (this, i would argue, is rarely the case. But it does happen)
+	- The "haves" resisting giving up their wealth leads to the gap widening, by nature of how capitalism works. Those with capital have an easier time accruing more capital. The gap widens
+	- The systems that have resulted in this split, by not being addressed, are exploitative. It becomes easy to continue to extract from those with few means to protect themselves. Inaction means those with the power to act are now responsible. Perhaps its too simplistic - but those with capital are guilty of continued exploitation, until they transition over to the side of being exploited.
+		- is there ever a "perfectly equal" world? If not, does that mean that there will always be some exploitation? Even then, we can improve the situation - lower the absolute amount of exploitation. But this isn't exactly an easy thing to measure 
+
 ## Open questions
 - [ ] What is stopping us from cooperating rather than competing? (in the sense that capitalism encourages competition)
 
