@@ -9,4 +9,13 @@ This is a project about securely generating private keys or seed phrases offline
   - basic hardware requirements
   - basic technical concepts
 - secret shares
-  - Easy to divide up keys into N-of-M style shares  
+  - Easy to divide up keys into N-of-M style shares
+
+## Status
+
+_updated May 11 2025_
+
+**Discovery and planning** - Currently this project is in the stage where i am **seeking information** and working on the best **plan of action** for moving forward.
+
+## Notes/links
+- [ ] This repo - [`psst`, a tool for shamir sharing of monero keys](https://github.com/Unkn8wn69/psst) by a member of the monero community
