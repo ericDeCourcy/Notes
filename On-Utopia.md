@@ -33,8 +33,16 @@ How do we deal with the fact that some people will suffer while others are doing
 	- The systems that have resulted in this split, by not being addressed, are exploitative. It becomes easy to continue to extract from those with few means to protect themselves. Inaction means those with the power to act are now responsible. Perhaps its too simplistic - but those with capital are guilty of continued exploitation, until they transition over to the side of being exploited.
 		- is there ever a "perfectly equal" world? If not, does that mean that there will always be some exploitation? Even then, we can improve the situation - lower the absolute amount of exploitation. But this isn't exactly an easy thing to measure 
 
+### Fundamental Rights
+
+In answering the questions around inequity, we may need some guidance as to what is right, wrong, or enough given the different backgrounds people (and the biosphere) exist in and come from. For example, for equity, maybe everyone agrees that all humans have a right to an education. But, different people may choose different educations. The "right" is the right to choose a degree program, and the challenge is making that choice nearly the same level of difficulty. To study music, one may need access to instruments or a skilled teacher, which may mean moving halfway across the world. Mathematics may be more easily taught especially at the basic levels.
+
+The [Capability Approach](https://en.wikipedia.org/wiki/Capability_approach) outlines a framework for assessing human welfare, but it can also be applied to animals and other non-human species. It raises some questions. Are the hueristics in the capabilities approach enough/too much? How do we measure many of these things? Are the hueristics interchangeable and at what level? Fortunately when talking about Utopia, we needn't pick certain hueristics and discard others - it should be our goal to obtain all of them.
+
 ## Open questions
 - [ ] What is stopping us from cooperating rather than competing? (in the sense that capitalism encourages competition)
+- [ ] To what degree do animals deserve fundamental rights? Does a utopia include the biosphere? (I think yes)
+	- [ ] Where do pets fit into the Utopian world? Are pet lives enhanced or restricted because of their capture? Should certain dog breeds be bred-out of the gene pool due to maladaptive traits (like pugs struggling to breathe or high rates of chronic illness in "designer" dog breeds)?
 
 ### Contributing
 
