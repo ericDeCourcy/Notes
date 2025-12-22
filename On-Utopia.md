@@ -1,8 +1,15 @@
 # On Utopia
+What is a Utopia?
 
-## What
+## What is the point of this
 
-Lets figure out what a perfect world looks like
+Lets figure out what a perfect world looks like. If we know what we want in the world, we can begin making changes to our world or identifying problems to solve.
+
+### This might be a ridiculous question
+One person's utopia is not going to be someone else's. A utopia is **perfect**, which means for each person there is exactly one, and it is unique. Therefore, it may be impossible to define a utopia, because there will be a unique one for each person.
+
+Still, lets explore. Lets find the commonalities. This is not just a philosophy project, this project is meant to encourage positive changes in the world.
+
 
 ## Wisdom of the crowd
 
@@ -16,6 +23,37 @@ Its interesting to see that of 3 people i've directly asked about this, each ans
 
 A sample size of 3 is not enough. I will collect more data.
 
+## Characteristics of a "Utopia" 
+
+### Good and Bad Qualities
+Since a Utopia is "perfect" it makes sense that it should have all of the good qualities, or a maximal amount of them, and none of the bad qualities. But, what are such qualities?
+
+### Human desires
+What are a humans' general desires? These can help inform what a human would want in a utopic world. We should understand that some desires would probably not make a utopia. such as some people having the desire to commit murder.
+
+For these desires, the sky's the limit. Remember we're talking about a perfect world, so we can include things that seem too good to be true in here as well.
+
+- Health
+- Physical comfort
+  - Lack of hunger
+  - Comfortable home
+  - protection from crime
+  - Freedom from pain
+- Fulfillment
+  - Acheiving things that are felt to be important
+  - Sportsmanlike competition
+  - Educational pursuits //Not sure if this one should go here
+- Entertainment
+- Physical Freedom
+- Community 
+  - Romantic love
+  - Friends
+  - Family
+- Emotional Wellbeing
+  - //Should "Community" just be a part of this? Probably not as community isn't just for your mental health
+  - **Healthy** relationships //Including unhealthy relationships is likely not desired
+
+
 ## Concepts
 ### Cooperation versus Competition
 
@@ -23,7 +61,9 @@ A general principle of the modern (capitalist) world is competition. The strong 
 
 We can see that there are many projects which achieve better outcomes with cooperation than they would have with an individualist, competitive nature. Which makes sense, in many ways. For example, attempting to develop the "best" product on the market, in a competitive environment, means expending resources protecting intellectual property, attacking other competitors, and of course research and devlopment (which is more costly because competitors will not share IP, resulting in having to reinvent things multiple times over, once for each firm). Instead of wasting resources on redundant research, and on maintaining an aggressive front against competitors, if all particpants collaborated, we could acheive the same "best" product much faster and with less labor. Isn't that good?
 
-The quickest answer to the question of why we compete seems to be "thats how evolution/the natural world works". But, are we not better than that? Fairness is ingrained in human psychology, and we create laws to discourage wanton murder and rape, which also occur in the natural world. We create social programs so the disabled can survive. We have a natural desire to be better than animals in the jungle. 
+One answer to the question of why we compete is "thats how evolution/the natural world works". But, are we not better than that? Fairness is ingrained in human psychology, and we create laws to discourage wanton murder and rape, which also occur in the natural world. We create social programs so the disabled can survive. We have a natural desire to be better than animals in the jungle. 
+
+There are many things we wouldn't compete over if we didn't have to - food for example. Does this extend to ALL things we compete for? Or most things?
 
 ### Inequality
 
@@ -43,6 +83,18 @@ The [Capability Approach](https://en.wikipedia.org/wiki/Capability_approach) out
 - [ ] What is stopping us from cooperating rather than competing? (in the sense that capitalism encourages competition)
 - [ ] To what degree do animals deserve fundamental rights? Does a utopia include the biosphere? (I think yes)
 	- [ ] Where do pets fit into the Utopian world? Are pet lives enhanced or restricted because of their capture? Should certain dog breeds be bred-out of the gene pool due to maladaptive traits (like pugs struggling to breathe or high rates of chronic illness in "designer" dog breeds)?
+- [ ] How does the notion of sudden, disruptive changes vs gradual changes relate to utopia?
+	- [ ] Consider big societal changes that have happened and why
+- [ ] What sorts of negative tendencies can people have? How much does "human nature" affect how non-utopic our world is?
+	- [ ] What percentages of people have certain tendencies?
+    - [ ] Lets consider what "negative" means here
+    - [ ] Lets consider what positive tendencies people have and see how they play into views of utopias
+- [ ] Why is money coveted? What "powers" does it confer that make it so desireable?
+- [ ] Begin describing different "perfect worlds" or "perfect days" that seem reasonable to you.
+
+## Ideas to integrate
+- Sharing resources is maladaptive only when there is not enough of a resource to go around. Otherwise it is possibly well-adapted because it saves effort which would be spent on competition.
+- Does competition create a race-to-the-bottom in terms of energy or value? competition will happen if there's a percieved benefit greater than the cost of competiting. But multiple parties will compete.
 
 ### Contributing
 
