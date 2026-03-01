@@ -1,8 +1,6 @@
 # On Utopia
 What is a Utopia?
 
-## What is the point of this
-
 Lets figure out what a perfect world looks like. If we know what we want in the world, we can begin making changes to our world or identifying problems to solve.
 
 ### This might be a ridiculous question
