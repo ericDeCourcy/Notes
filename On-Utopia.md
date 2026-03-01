@@ -19,7 +19,11 @@ The answers i can recall are grouped into two types:
 
 Its interesting to see that of 3 people i've directly asked about this, each answer seems to have throughlines of trust and love. Most things mentioned have to do with interpersonal, "micro" relationships, rather than macro things like geopolitics.
 
-A sample size of 3 is not enough. I will collect more data.
+update 2/28/26:
+I asked 3 or so more people about what we need more of, how to improve the world, generally, and their immediate answers were all just "love". 
+
+Is it really this simple? I can't help but feel like its a fairy tale answer, based on what people say and do in movies.
+
 
 ## Characteristics of a "Utopia" 
 
