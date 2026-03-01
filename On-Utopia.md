@@ -53,6 +53,24 @@ For these desires, the sky's the limit. Remember we're talking about a perfect w
   - //Should "Community" just be a part of this? Probably not as community isn't just for your mental health
   - **Healthy** relationships //Including unhealthy relationships is likely not desired
 
+## How do we get there?
+```
+To turn around any institution - whether a business, a labor union, a university, a hospital, or a government - requires the same three steps:
+
+1. Abandonment of the things that do not work, the things that have never worked; the things that have outlived their usefulness and their capacity to contribute;
+
+2. Concentration on the things that do work, the things that produce results, the things that improve the organization's ability to perform; and
+
+3. Analysis of the half-successes, the half-failures. A turning around requires abandoning whatever does not perform and doing more of whatever does perform.
+```
+_taken from "Post Capitalist Society" by Drucker_
+
+**What do we need more of? What are the targets we are shooting for?**
+
+**What are the things we should abandon? Why?**
+
+**How do we analyze our successes and failures?**
+
 
 ## Concepts
 ### Cooperation versus Competition
@@ -73,11 +91,41 @@ How do we deal with the fact that some people will suffer while others are doing
 	- The systems that have resulted in this split, by not being addressed, are exploitative. It becomes easy to continue to extract from those with few means to protect themselves. Inaction means those with the power to act are now responsible. Perhaps its too simplistic - but those with capital are guilty of continued exploitation, until they transition over to the side of being exploited.
 		- is there ever a "perfectly equal" world? If not, does that mean that there will always be some exploitation? Even then, we can improve the situation - lower the absolute amount of exploitation. But this isn't exactly an easy thing to measure 
 
+#### Welfare
+Welfare here is a response to inequality. It takes many forms - the "haves" giving to the "have-nots".
+
+A quote from a good friend: 
+_"Do you think the strong should protect the weak? If so, do you consider yourself strong or weak?"_
+
+According to **Drucker**(#TODO actual citation here), when african farmers were given international food aid, they generally had less productive farms afterwards. He argues that this is not good for the nation as actual growth was stifled and the people became dependent on aid. 
+
+This seems to echo (or preceed, since this book is from the 90's) the modern day fear that "welfare queens" will stay lazy if theyre given handouts. 
+
+Is that a bad thing? It may not feed into the narrative of GDP extraction and growth, perhaps feeding people should be the yardstick by which we measure success.
+
+It's also worth mentioning that many welfare recipients are the "weak" and are unable to provide for themselves. Sure wheelchair users, but also - grandmas, chemo patients, toddlers - many are unable to work and their "lifestyle" is being "subsized" by someone.
+
+**Is it welfare if their community indirectly provides it, versus a government that doles out a check?** 
+
+**Is this a better or worse way to provide for individual needs than what we already have?**
+
+**What do we already have in terms of welfare?**
+
+
+
 ### Fundamental Rights
 
 In answering the questions around inequity, we may need some guidance as to what is right, wrong, or enough given the different backgrounds people (and the biosphere) exist in and come from. For example, for equity, maybe everyone agrees that all humans have a right to an education. But, different people may choose different educations. The "right" is the right to choose a degree program, and the challenge is making that choice nearly the same level of difficulty. To study music, one may need access to instruments or a skilled teacher, which may mean moving halfway across the world. Mathematics may be more easily taught especially at the basic levels.
 
 The [Capability Approach](https://en.wikipedia.org/wiki/Capability_approach) outlines a framework for assessing human welfare, but it can also be applied to animals and other non-human species. It raises some questions. Are the hueristics in the capabilities approach enough/too much? How do we measure many of these things? Are the hueristics interchangeable and at what level? Fortunately when talking about Utopia, we needn't pick certain hueristics and discard others - it should be our goal to obtain all of them.
+
+### Authority or Heirarchy
+The existence of heirarchies and authority structures is viewed as antithetical to freedom and equity, but also regarded as necessary for order and a compromise on one's own freedom. 
+
+Common themes with heirarchies are that they take away rather than bestow rights, but do they have to? Heirarchies in general are the splaying out of the spectrum of some form of power
+
+### Governments
+Governments, beauracracies are authoritative and heirarchical structures. Like duh, lol
 
 ## Open questions
 - [ ] What is stopping us from cooperating rather than competing? (in the sense that capitalism encourages competition)
