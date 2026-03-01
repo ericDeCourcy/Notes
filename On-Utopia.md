@@ -30,6 +30,9 @@ Is it really this simple? I can't help but feel like its a fairy tale answer, ba
 ### Good and Bad Qualities
 Since a Utopia is "perfect" it makes sense that it should have all of the good qualities, or a maximal amount of them, and none of the bad qualities. But, what are such qualities?
 
+#### Dystopias
+What are dystopias? We know from literature dystopias are filled with inequality, pollution, restriction of freedom, maybe crime or disease, filth and death generally. What are the causes of these dystopias?
+
 ### Human desires
 What are a humans' general desires? These can help inform what a human would want in a utopic world. We should understand that some desires would probably not make a utopia. such as some people having the desire to commit murder.
 
@@ -148,7 +151,8 @@ Governments, beauracracies are authoritative and heirarchical structures. Like d
 	- [ ] Is it the communities' responsibility?
  	- [ ] Is it still welfare if we simply share with each other?
   	- [ ] what makes welfare bad?
-- [ ] What do the power structures in our world look like?	
+- [ ] What do the power structures in our world look like?
+- [ ] Describe a dystopia you can think of from a movie. How did the world end up like that? Whats the worst part of living in this world?
 
 
 ## Ideas to integrate
