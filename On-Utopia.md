@@ -22,7 +22,7 @@ Its interesting to see that of 3 people i've directly asked about this, each ans
 update 2/28/26:
 I asked 3 or so more people about what we need more of, how to improve the world, generally, and their immediate answers were all just "love". 
 
-Is it really this simple? I can't help but feel like its a fairy tale answer, based on what people say and do in movies.
+Is it really this simple? I can't help but feel like its a fairy tale answer, based on what people say and do in movies, and not on real life.
 
 
 ## Characteristics of a "Utopia" 
