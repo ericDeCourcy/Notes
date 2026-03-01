@@ -141,6 +141,15 @@ Governments, beauracracies are authoritative and heirarchical structures. Like d
     - [ ] Lets consider what positive tendencies people have and see how they play into views of utopias
 - [ ] Why is money coveted? What "powers" does it confer that make it so desireable?
 - [ ] Begin describing different "perfect worlds" or "perfect days" that seem reasonable to you.
+- [ ] Is "love" really just the answer? What does that even mean?
+- [ ] What are the things we need more of, what are the good things we can measure?
+- [ ] What are the things we need less of? What can we measure?
+- [ ] How do we provide for the weak in our society?
+	- [ ] Is it the communities' responsibility?
+ 	- [ ] Is it still welfare if we simply share with each other?
+  	- [ ] what makes welfare bad?
+- [ ] What do the power structures in our world look like?	
+
 
 ## Ideas to integrate
 - Sharing resources is maladaptive only when there is not enough of a resource to go around. Otherwise it is possibly well-adapted because it saves effort which would be spent on competition.
