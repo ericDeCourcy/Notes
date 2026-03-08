@@ -153,6 +153,9 @@ Governments, beauracracies are authoritative and heirarchical structures. Like d
   	- [ ] what makes welfare bad?
 - [ ] What do the power structures in our world look like?
 - [ ] Describe a dystopia you can think of from a movie. How did the world end up like that? Whats the worst part of living in this world?
+- [ ] Gangs - why do they form and do they represent a rejection of current societal status quo? Why? Are gangs a representation of "opting out" of an existing system?
+- [ ] Crime - likely a big reason for gangs is that crime is profitable. But. Crime seems relevant to the discussion of utopia.
+- [ ] Punishment... whats up with that??
 
 
 ## Ideas to integrate
