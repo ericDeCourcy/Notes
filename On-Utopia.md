@@ -132,6 +132,12 @@ Common themes with heirarchies are that they take away rather than bestow rights
 ### Governments
 Governments, beauracracies are authoritative and heirarchical structures. Like duh, lol
 
+### War 
+_What is it good for?_
+
+War is one of the scariest things most humans can think of. And unlike werewolves or shark attacks, people actually experience it en-masse. Any war survivor agrees "you don't want to be in a war" and yet, "we" have wars all the time. What the actual fuck, like shit, bro, whatttt??? why do we do that?
+ 
+
 ## Open questions
 - [ ] What is stopping us from cooperating rather than competing? (in the sense that capitalism encourages competition)
 - [ ] To what degree do animals deserve fundamental rights? Does a utopia include the biosphere? (I think yes)
@@ -156,6 +162,12 @@ Governments, beauracracies are authoritative and heirarchical structures. Like d
 - [ ] Gangs - why do they form and do they represent a rejection of current societal status quo? Why? Are gangs a representation of "opting out" of an existing system?
 - [ ] Crime - likely a big reason for gangs is that crime is profitable. But. Crime seems relevant to the discussion of utopia.
 - [ ] Punishment... whats up with that??
+- [ ] War
+    - [ ] what are we fighting for/over
+    - [ ] How do wars start and end
+    - [ ] How do people act in wars? How do people react to wars?
+    - [ ] How are people impacted by wars
+    - [ ] What are the parts of war that people fear?	
 
 
 ## Ideas to integrate
