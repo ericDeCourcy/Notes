@@ -179,8 +179,12 @@ War is one of the scariest things most humans can think of. And unlike werewolve
 
 
 ## Ideas to integrate
+_This is where ideas live before they find a better place in this document_
 - Sharing resources is maladaptive only when there is not enough of a resource to go around. Otherwise it is possibly well-adapted because it saves effort which would be spent on competition.
 - Does competition create a race-to-the-bottom in terms of energy or value? competition will happen if there's a percieved benefit greater than the cost of competiting. But multiple parties will compete.
+- [This youtube video](https://www.youtube.com/watch?v=aCKrQ48MULE) ("What ACTUALLY Changes People's Minds About Housing") reveals that people are motivated by two surprising things:
+  - The injustice of the poor - if there's a housing shortage, the poor get fucked over. Showing this gets reactions
+  - How pretty buildings are. People actually care a lot about how cities and buildings look when considering how desireble those places are to live.
 
 ### Contributing
 
