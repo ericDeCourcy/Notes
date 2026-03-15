@@ -24,6 +24,14 @@ I asked 3 or so more people about what we need more of, how to improve the world
 
 Is it really this simple? I can't help but feel like its a fairy tale answer, based on what people say and do in movies, and not on real life.
 
+### What question to ask
+
+When i want to ask people for their opinions on a utopia, i tend to go for transparency - explaining to them the purpose of this project and asking for exactly what i'm interested in. And it seems that's not working well.
+
+People get overwhelmed when you ask them what **THE perfect world** looks like. Its a tough question, and i think people get caught up in the absolute-ness of it. 
+
+Instead, what if we asked people to tell us what a nice day looks like. What characteristics does it have? What makes a nice day they have had recently different than a typical day? 
+
 
 ## Characteristics of a "Utopia" 
 
