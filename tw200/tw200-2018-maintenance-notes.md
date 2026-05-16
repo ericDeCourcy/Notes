@@ -14,7 +14,7 @@ _Please note that I'm not a mechanic. I'm just some dude who likes to learn by d
 
 ## Carburetor
 
-- [Parts diagram](https://www.partzilla.com/catalog/yamaha/motorcycle/2002/tw200-tw200p/carburetor?srsltid=AfmBOoop6BhYQeMbGHnHbGZOtflfhl0IWDYpsGGKwjBsGbvhu9dlZEOr)
+- [Parts diagram](https://www.partzilla.com/catalog/yamaha/motorcycle/2018/tw200-tw200j1/carburetor)
 - [TK Carb parts labelled with pictures](https://www.tw200forum.com/threads/tk-carb-photos-and-parts-identification.881/)
 - [Lazy man's TK carb cleaning](https://www.tw200forum.com/threads/lazy-mans-teikei-tk-carb-cleaning.810/)
 - [Discussions about the coaster circuit diaphram and carb tuning](https://www.tw200forum.com/threads/those-with-carb-issues-will-want-to-see-this.8207/)
