@@ -185,6 +185,7 @@ _This is where ideas live before they find a better place in this document_
 - [This youtube video](https://www.youtube.com/watch?v=aCKrQ48MULE) ("What ACTUALLY Changes People's Minds About Housing") reveals that people are motivated by two surprising things:
   - The injustice of the poor - if there's a housing shortage, the poor get fucked over. Showing this gets reactions
   - How pretty buildings are. People actually care a lot about how cities and buildings look when considering how desireble those places are to live.
+- The Barrow Scale - as opposed to the Kardeshev Scale. Both are guidance in what "good development" looks like. [Kurzegesats video on Barrow Scale](https://www.youtube.com/watch?v=QW_jlUn4gA8&t=266s).
 
 ### Contributing
 
